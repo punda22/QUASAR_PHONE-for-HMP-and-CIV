@@ -1,12 +1,4 @@
-fx_version 'bodacious'
-
-game 'gta5'
-
-lua54 'yes'
-
-version '1.2.2'
-
-this_is_a_map 'yes'
+fek
 
 --[[files {
     'diables_x_quasar_phone.ytyp',
